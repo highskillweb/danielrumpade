@@ -153,7 +153,7 @@
                 I’m a full stack web developer, with 8 years of experience in developing various range of web applications such as Rental system, Travel Booking system, Healthcare system, Administrative dashboard, Shopping cart, Restaurant ordering system. <br>
                 I’m really passionate, self-motivated and detail-oriented.
                 </p>
-                <a class="waves-effect waves-light btn-large brand-bg white-text" href="assets/jan.pdf" target="_blank"><i class="mdi-content-archive left"></i> Download Resume</a>
+                <a class="waves-effect waves-light btn-large brand-bg white-text" href="assets/daniel.pdf" target="_blank"><i class="mdi-content-archive left"></i> Download Resume</a>
               </div>
             </div>
             <!-- about me description -->
@@ -834,7 +834,7 @@
                             <div class="card-image waves-effect waves-block waves-light">
                               <div class="card-img-wrap">
                                 <img class="activator" src="images/cl1.jpg" alt="">
-                                <p class="saying-about">Jan is a real pro!  Not only was his work product superb but his communications was above and beyond.  he was in touch constantly , made sure I had what I needed and made any changes immediately. Additionally he created a spreadsheet that enabled us to track the progress of the assignment and keep us both on track. He is highly skilled, resourceful and full of helpful suggestions and tips.</p>
+                                <p class="saying-about">Daniel is a real pro!  Not only was his work product superb but his communications was above and beyond.  he was in touch constantly , made sure I had what I needed and made any changes immediately. Additionally he created a spreadsheet that enabled us to track the progress of the assignment and keep us both on track. He is highly skilled, resourceful and full of helpful suggestions and tips.</p>
                               </div>
                             </div>
                             <div class="card-content">
@@ -847,7 +847,7 @@
                             <div class="card-image waves-effect waves-block waves-light">
                               <div class="card-img-wrap">
                                 <img class="activator" src="images/cl2.jpg" alt="">
-                                <p class="saying-about">Jan was the only person who within the first meeting made me feel very confident and comfortable that he understood and could produce what we envisioned. It’s been a terrific experience working with him. I have never had to ask twice for answers and when delivered, he always made sense! The finished product is far superior than I imagined!</p>
+                                <p class="saying-about">Daniel was the only person who within the first meeting made me feel very confident and comfortable that he understood and could produce what we envisioned. It’s been a terrific experience working with him. I have never had to ask twice for answers and when delivered, he always made sense! The finished product is far superior than I imagined!</p>
                               </div>
                             </div>
                             <div class="card-content">
@@ -860,7 +860,7 @@
                             <div class="card-image waves-effect waves-block waves-light">
                               <div class="card-img-wrap">
                                 <img class="activator" src="images/cl3.png" alt="">
-                                <p class="saying-about">I highly recommend Jan as a web developer that is competent, talented and professional. He successfully took on my point of view of my project. His straightforward programming not only produced an exact replica, but created a more efficient, intuitive, and complete management system that has cut my admin time so dramatically I can now handle 5 clients in the time it previously took me to handle 1 client.</p>
+                                <p class="saying-about">I highly recommend Daniel as a web developer that is competent, talented and professional. He successfully took on my point of view of my project. His straightforward programming not only produced an exact replica, but created a more efficient, intuitive, and complete management system that has cut my admin time so dramatically I can now handle 5 clients in the time it previously took me to handle 1 client.</p>
                               </div>
                             </div>
                             <div class="card-content">
